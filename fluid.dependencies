@@ -1,0 +1,23 @@
+[
+  {
+    "remote":      "fluid-devices",
+    "repository":  "device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common"
+  },
+  {
+    "remote":      "fluid-devices",
+    "repository":  "vendor_xiaomi_davinci",
+    "target_path": "vendor/xiaomi/davinci"
+  },
+  {
+    "remote":      "fluid-devices",
+    "repository":  "vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common"
+  },
+  {
+    "remote":"github",
+    "branch":"lineage-18.1",
+    "target_path":"hardware/xiaomi",
+    "repository":"LineageOS/android_hardware_xiaomi"
+  }
+]
